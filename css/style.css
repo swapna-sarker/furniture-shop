@@ -1,0 +1,21 @@
+.hero-section {
+    background-color:#3b5d50;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+.hero-section img {
+    max-width: 100%;
+    height: auto;
+}
+.card-product img {
+    max-width: 100%;
+    height: auto;
+}
+.testimonials {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+.navbar {
+    background-color:#3b5d50;
+}
