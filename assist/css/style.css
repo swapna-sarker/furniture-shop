@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+body{
+    font-family: "Inter", sans-serif;
+}
+
+/* navbar */
+
+.navbar {
+    background-color:#3b5d50;
+}
+.navbar a{
+    color: white;
+}
+.color {
+    color: #338060d5;
+}
+
+/* hero-section */
+
+.hero-section {
+    background-color:#3b5d50;
+    color: white;
+    padding: 5.8rem;
+}
+.hero-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* card-product */
+
+.card-product {
+    background-color: #f1f5f7;
+}
+.card-product img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Person Section */
+
+.person {
+    background-color: #f1f5f7;
+}
+.person_section {
+    color: black;
+}
+.learn {
+    color: black;
+}
+
+/* testimonials */
+
+.testimonials {
+    background-color: #f1f5f7;
+    padding: 3.4rem 0;
+}
+.Testimonials_1 span {
+    color: black;
+    background-color: #3b5d50;
+    margin-top: 80px;
+}
+
+/* Product */
+
+.Product{
+    background-color: #f1f5f7;
+    padding: 5rem;
+}
+
+/* Why-Choose */
+
+.Why-Choose{
+    background-color: #f1f5f7;
+    padding: 9rem;
+}
+
+/* Why-Choose-icon */
+
+/* .icon-wrapper {
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.background-circle {
+    position: absolute;
+    top: 14px;
+    left: 21px;
+    width: 32px;
+    height: 32px;
+    background-color: #d3dcd8;
+    border-radius: 50%;
+}
+
+.icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    z-index: 1;
+} */
+
+/* Product-Section */
+
+.Product-Section{
+    background-color: #f1f5f7;
+    padding: 5rem;
+}
+
+/* lorem */
+
+.img{
+    background-color: #e9eef5;
+    border-radius: 1rem;
+}
+
+/* Recent-Blog */
+
+.Recent-Blog{
+    background-color: #f1f5f7;
+    padding: 5rem;
+}
+.Recent a {
+    color: black;
+}
+
+/* sofa */
+
+.sofa {
+    width: 15rem;
+    height: 15rem;
+    margin-left: auto;
+    
+}
+
+/* Subscribe section  */
+
+.inpt input {
+    width: 40%;
+    padding: 8px 10px;
+    border: 1px solid rgb(218, 215, 215);
+    outline: none;
+    border-radius: 10px;
+}
+
+.inpt input::placeholder {
+    font-size: 13px;
+    color: gray;
+}
+
+.inpt .submt {
+    padding: 8px 15px;
+    background: #3b5d50;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 4.7rem;
+    text-align: center;
+}
+
+/* Swapna */
+
+.f_icon {
+    padding: 10px;
+    background: #c9d5d0d5;
+    color: #3b5d50;
+    border-radius: 50%;
+}
+.text p a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/* sir icon */
+
+.icon{
+    position: relative;
+    display: inline-block;
+}
+
+.icon::before{
+    content: "";
+    position: absolute;
+    background-color: rgb(65, 71, 96,0.2);
+    height: 33px;
+    width: 33px;
+    bottom: 0;
+    right: -10px;
+    border-radius: 50%;
+}
